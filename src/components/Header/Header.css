@@ -1,0 +1,9 @@
+.headerTitle {
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 18px;
+    box-shadow: 2px 2px 0px #1B2D93
+}

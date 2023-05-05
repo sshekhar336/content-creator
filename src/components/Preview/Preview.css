@@ -1,0 +1,26 @@
+.previewContainer {
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 18px;
+    box-shadow: 2px 2px 0px #1B2D93
+}
+
+.previewTitle {
+    text-align: center;
+}
+
+.mobileContainer {
+    background-image: url("../../assets/previewContainer.svg");
+    height: 350px;
+    background-size: auto 100%;
+    width: 250px;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 45px 18px 52px 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

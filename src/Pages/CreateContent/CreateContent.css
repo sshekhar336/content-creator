@@ -1,0 +1,18 @@
+.createContentContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.contentWithPreview {
+    display: flex;
+    gap: 30px;
+}
+
+.section-1 {
+    flex: 3;
+}
+
+.section-2 {
+    flex: 1;
+}

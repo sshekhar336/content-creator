@@ -1,0 +1,38 @@
+.FormWithTabContainer {
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 18px;
+    box-shadow: 2px 2px 0px #1B2D93;
+    min-height: 500px;
+}
+
+.tabContainer {
+    display: flex;
+    gap: 20px;
+    border-bottom: 1px solid #1B2D93;
+}
+
+.tab{
+    padding: 4px 8px;
+    margin-bottom: 10px;
+
+}
+.tab:hover{
+    padding: 4px 8px;
+    background-color: #1B2D93;
+    border-radius: 6px;
+    cursor: pointer;
+    opacity: 0.9;
+    color: #fff;
+}
+.isActive {
+    padding: 4px 8px;
+    background-color: #1B2D93;
+    border-radius: 6px;
+    cursor: pointer;
+    opacity: 0.9;
+    color: #fff;
+}
